@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    background-color: lightpink;
+	}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center; 
+}
+
+nav ul li {
+    display: inline-block; 
+    margin: 5px; 
+	color: #d35f75;
+	font-size: 20px;
+	font-family: "Baskerville Old Face";
+	text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 0.5em 1em; 
+    font-size: 1.2em; 
+    border-radius: 50px;
+    transition: background-color 0.3s ease; 
+	color: #d35f75;
+}
+
+nav ul li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+	margin-bottom: 500px;
+}
+ 
+
+section {
+    margin-left:20px;
+}
+
+#about {
+    text-align: center;
+}
+
+.header-with-image {
+    display: flow-root;
+    margin-top: 15px;
+	margin-left: 5px;
+}
+
+.header-with-image img {
+    width: 350px; 
+    height: auto; 
+    margin-right:20px;
+}
+
+.header-with-image h1{
+	font-size: 70px; 
+	font-family: "Recoleta DEMO";
+	color: #d35f75;
+	}
+	h2 {
+    font-size: 36px; 
+	font-family: "Baskerville Old Face";
+	color: #d35f75;
+		align-content: flex-start;
+	margin-top: -50px;
+	margin-bottom: 150px;
+}
+
+p {
+	color: #d35f75;
+	margin-top: 10px;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 26px;
+	font-family: "Baskerville Old Face";
+	text-align: center;
+}
+
+figure {
+	margin-left: 0px;
+}
+
+
+footer {
+    color: #d35f75;
+    text-align: center;
+	font-size:12px;
+	font-family: "Baskerville Old Face";
+	margin-top: 350px;
+	}
+
+.sobremi {
+    display:contents;
+    align-items: center;
+    padding: -1000px;
+    justify-content: center;
+	margin-top: 60px;
+}
+
+.body-with-image {
+    display: flow-root;
+    margin-top: 15px;
+	margin-left: 200px;
+}
+
+.body-with-image img {
+    width: 400px; 
+    height: auto; 
+    margin-right:0px;
+}
+
+.body-with-image h1{
+	font-size: 70px; 
+	font-family: "Recoleta DEMO";
+	color: #d35f75;
+	
+	}
+
+h2 {
+    font-size: 26px; 
+	font-family: "Baskerville Old Face";
+	color: #d35f75;
+	align-content: h1;
+	margin-top: -50px;
+	margin-left: 25px;
+	margin-right: 200px;
+	}
+
+
+
+.details img{
+		margin-left: 420px;
+} 
+h3 {
+	font-size: 70px; 
+	font-family: "Recoleta DEMO";
+	color: #d35f75;
+	padding: 50px;
+	margin-left: 25px;
+	align-content: center;
+} 	
+table {
+	align-content: center;
+	margin-left: 300px;
+	
+	
+tbody {
+	font-size: 26px; 
+	font-family: "Baskerville Old Face";
+	color: #d35f75;
+	text-align: center;
+	margin-top: -50px;
+	margin-right: 200px;
+	padding-bottom: 50px;
+}
+  
+	.projects {
+		
+	}
